@@ -2,8 +2,8 @@
 
 ### Education
 - Post Graduation Certificate., Artificial Intelligence with Machine Learning | Humber College (_April 2024_)
-- Post Graduation Certificate: Big Data Analytics | Georgian College (_August 2023_)
-- Bachelor's of Information Technology - Mumbai University (_July 2015_)
+- Post Graduation Certificate., Big Data Analytics | Georgian College (_August 2023_)
+- Bachelor's Degree., Information Technology | Mumbai University (_July 2015_)
 
 ### Work Experience
 - Application Development Senior Analyst - Accenture, India | (_Sep 2021 - Dec 2022_)
