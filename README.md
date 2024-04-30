@@ -201,7 +201,7 @@
 **Assignments**
 
 1. **Assignment 1: Ethical Considerations in AI and CLV Prediction:**
-    - 
+    - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
     - [Assignment 1 - Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
 
 2. **Assignment 2: State-of-the-Art in Applied ML Research Paper:**
