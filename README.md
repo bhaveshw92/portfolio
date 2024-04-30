@@ -145,6 +145,7 @@
 9. Lab 9 - Movie Recommender
 
 **Link:** [Labs 1-9](link_to_prohttps://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Pythonject)
+
 ---
 
 **Projects**
