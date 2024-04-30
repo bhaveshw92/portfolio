@@ -171,3 +171,43 @@
 **Description:** Implemented web scraping techniques to extract data from websites for analysis - The project involves scraping data from a website and analyzing the information to answer specific questions related to the funding ecosystem for startups in India.
 
 **Link:** [Web Scraping Project](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Python/WebScrapping%20Project)
+
+---
+
+**Deep Learning**
+
+### Labs and Projects
+
+1. **WEKA Installation and Linear Regression in Python:**
+    - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation. 
+    - [Lab 1 - Linear Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_1_LinearRegression)
+
+2. **Multiple Linear Regression (MLR):**
+    - Implemented an MLR model to predict user satisfaction scores based on various factors.
+    - [Lab 2 - Multiple Linear Regression (MLR)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_2_MultiLinearRegression)
+
+3. **Logistic Regression:**
+    - Explored and implemented logistic regression for binary classification tasks.
+    - [Lab 3 - Logistic Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_3_Binary_Classification)
+
+4. **Gaussian Naive Bayes Classifier (NBC):**
+    - Introduced Gaussian NBC, explored assumptions, and evaluated the model. 
+    - [Lab 7 - Gaussian Naive Bayes Classifier (NBC)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_7_Gaussian_Naive_Bayes)
+
+5. **Decision Trees and ML Hyperparameters:**
+    - Designed and evaluated decision tree models for regression tasks, including hyperparameter tuning.
+    - [Lab 6 - Decision Trees and ML Hyperparameters](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_9_Decision_Trees)
+
+**Assignments**
+
+1. **Assignment 1: Ethical Considerations in AI and CLV Prediction:**
+    - 
+    - [Assignment 1 - Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
+
+2. **Assignment 2: State-of-the-Art in Applied ML Research Paper:**
+    - Sentiment Analysis of YouTube Comments - Research 2 Papers from IEEE, Present and Summarize 2  papers to the class.
+    - [Assignment 2 - State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
+
+3. **Assignment 3: Large-scale Wave Energy Farm Optimization Through ML:**
+    - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
+    - [Assignment 3 - Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
