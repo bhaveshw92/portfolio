@@ -22,7 +22,7 @@
     - Data transformation, analysis, and visualization using Power Query and DAX functions
     - [Link to Project](https://github.com/bhaveshw92/BigDataAnalytics/tree/main/Business%20Intelligence/M_code_and_DAX)
 
-2. **SQL Movies Database Assignment:** *Add SQL Movie Database Creation Project*
+2. **SQL Movies Database Assignment:**
     -  Movie Database - SQL database creation, schema setup, table creation, data insertion, querying, manipulation, view creation, and database inspection.
     - [Link to Project](https://github.com/bhaveshw92/BigDataAnalytics/tree/main/Business%20Intelligence/SQL_Movies_DB_Assignment)
 
