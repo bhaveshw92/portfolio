@@ -198,16 +198,16 @@
     - Designed and evaluated decision tree models for regression tasks, including hyperparameter tuning.
     - [Lab 6 - Decision Trees and ML Hyperparameters](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_9_Decision_Trees)
 
-**Assignments**
+**Projects**
 
-1. **Assignment 1: Ethical Considerations in AI and CLV Prediction:**
+1. **Ethical Considerations in AI and CLV Prediction:**
     - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
-    - [Assignment 1 - Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
+    - [Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
 
-2. **Assignment 2: State-of-the-Art in Applied ML Research Paper:**
+2. **State-of-the-Art in Applied ML Research Paper:**
     - Sentiment Analysis of YouTube Comments - Research 2 Papers from IEEE, Present and Summarize 2  papers to the class.
-    - [Assignment 2 - State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
+    - [State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
 
-3. **Assignment 3: Large-scale Wave Energy Farm Optimization Through ML:**
+3. **Large-scale Wave Energy Farm Optimization Through ML:**
     - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
-    - [Assignment 3 - Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
+    - [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
