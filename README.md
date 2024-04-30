@@ -125,7 +125,48 @@
     - [Link to Certificate](https://github.com/bhaveshw92/BigDataAnalytics/blob/main/CertificateOfCompletion_Microsoft%20SQL%20Server%202019%20Essential%20Training.pdf)
 
 
+---
 
 #### AI and ML Projects
-- 
-- 
+---
+
+**Data Analytics with Python**
+
+### Labs
+
+1. Lab 1 - Pandas
+2. Lab 2 - NumPy
+3. Lab 3 - Matplotlib
+4. Lab 4 - Seaborn Exercises
+5. Lab 5 - Correlation Analysis
+6. Lab 6 - Hypothesis Testing and DateTime
+7. Lab 7 - Advance Charts
+8. Lab 8 - Web Scraping
+9. Lab 9 - Movie Recommender
+
+**Link:** [Labs 1-9](link_to_prohttps://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Pythonject)
+---
+
+**Projects**
+
+### Predicting Heart Disease
+
+**Description:** Utilized machine learning techniques to predict heart disease based on various risk factors - Analyze the risk factors associated with heart disease using a dataset containing 11 features.
+
+**Link:** [Predicting Heart Disease](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Python/Predecting_Heart_Disease)
+
+---
+
+### Regression Analysis
+
+**Description:** Conducted regression analysis on a dataset to identify relationships between variables - Analyze the customer experience of an Ecommerce company based in New York City that sells clothing online and offers in-store style and clothing advice sessions.
+
+**Link:** [Regression Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Python/Regression_Analysis)
+
+---
+
+### Web Scraping Project
+
+**Description:** Implemented web scraping techniques to extract data from websites for analysis - The project involves scraping data from a website and analyzing the information to answer specific questions related to the funding ecosystem for startups in India.
+
+**Link:** [Web Scraping Project](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Data%20Analytics%20with%20Python/WebScrapping%20Project)
