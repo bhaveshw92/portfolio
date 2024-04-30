@@ -11,8 +11,7 @@
 - Senior Software Developer - Iksula Services Pvt. Ltd - (_Dec 2017 - Sep 2021_) | 3.9 years
 
 ## Projects
-##### Big Data Analytics Projects
-**Bhavesh's Big Data Analytics Portfolio**
+#### Big Data Analytics Projects
 
 ---
 
@@ -127,6 +126,6 @@
 
 
 
-##### AI and ML Projects
+#### AI and ML Projects
 - 
 - 
