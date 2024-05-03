@@ -213,7 +213,7 @@
     - [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
   
 4. **YouTube Comments Sentiment Analysis:**
-    - Developed a sentiment analysis tool to categorize comments as positive, negative, or neutral
+    - Developed a sentiment analysis tool to categorize comments as positive, or negative.
     - Models Used:
         1. Artificial Neural Network (ANN)
         2. 1D Convolutional Neural Network (CNN)
