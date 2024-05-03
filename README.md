@@ -213,16 +213,10 @@
     - [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
   
 4. **YouTube Comments Sentiment Analysis:**
-    - Developed a sentiment analysis tool to categorize comments as positive, negative, or neutral.
-    - Objectives:
-        - Provide content creators with an efficient means of processing feedback.
-        - Enable data-driven decision-making by extracting insights from audience comments.
-        - Improve content creation experience by facilitating focused interaction with viewers.
-        - Implement measures to protect the privacy and security of content creators and commenters.
+    - Developed a sentiment analysis tool to categorize comments as positive, negative, or neutral
     - Models Used:
         1. Artificial Neural Network (ANN)
         2. 1D Convolutional Neural Network (CNN)
         3. Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM)
-    - Data Collection: Comments extracted from YouTube API.
-    - Conclusion: Developed a sentiment analysis tool that achieved satisfactory performance, enabling efficient feedback processing and data-driven decision-making for content creators.
+    - Data Collection: Comments extracted from YouTube API
     - [YouTube Comments Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/SentimentAnalysis_using_Neural_Networks)
