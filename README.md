@@ -250,3 +250,13 @@
 6. **Training a Model with Amazon SageMaker:**
     - Explore the built-in algorithms provided by Amazon SageMaker - Select an algorithm Linear Learner - Continued creating the model on the dataset used for Data Wrangler - Complete the training job and store the model artifact in the S3 bucket.
     - [Lab 6 - Training a Model with Amazon SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab6)
+
+**Projects**
+
+1. **Analyzing Hyperparameter Optimization Results in Sagemaker:**
+    - This project demonstrates the application of XGBoost and hyperparameter tuning in solving a binary prediction problem. By optimizing hyperparameters, we can improve model performance and make more accurate predictions in direct marketing scenarios.
+    - [Analyzing Hyperparameter Optimization Results](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/HyperParameterOptmization_XGBoost)
+
+2. **SageMaker JumpStart Assignment:**
+    - This assignment focuses on utilizing SageMaker JumpStart to train an XGBoost Classification Model for predicting strokes in a health dataset.
+    - [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
