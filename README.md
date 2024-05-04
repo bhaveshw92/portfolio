@@ -220,3 +220,33 @@
         3. Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM)
     - Data Collection: Comments extracted from YouTube API
     - [YouTube Comments Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/SentimentAnalysis_using_Neural_Networks)
+  
+---
+
+**Machine Learning on AWS Cloud**
+
+### Labs and Projects
+
+1. **AWS S3 Bucket Creation and Listing:**
+    - Create a Bucket and Load the Humber Logo - Use AWS CLI to Create a Bucket - Run Python Function to List Bucket Names - Querying S3 Bucket Names and Running Instances Programmatically
+    - [Lab 1 - S3 Bucket Creation and Listing](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab1)
+
+2. **AWS Lambda Function for S3 Event Handling:**
+    - Handling S3 Put Events with Lambda Function and Create a SageMaker model and Deploy the model.
+    - [Lab 2 - S3 Event Handling](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab2)
+
+3. **AWS AI Service Integration with Lambda Function:**
+    - Integrating Translate Service with Lambda Function - Write Lambda function code to extract the uploaded file in the S3 bucket - Utilize the Translate service to translate text from the uploaded file - Save the result of the translation into another s3 bucket.
+    - [Lab 3 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
+
+4. **SageMaker GroundTruth Text Classification:**
+    - Set up a labeling job in Amazon SageMaker GroundTruth - Configure the labeling job for Text Classification - Label the semantics of the customer feedback as per the assigned task - check the labeled data in the designated output folder within the S3 bucket 
+    - [Lab 3 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
+  
+5. **Data Wrangler in AWS Sagemaker:**
+    - Analyze the selected dataset in DataWrangler to identify opportunities for improving data quality - Clean and transform the data using DataWrangler - Present visualizations and analysis conducted in DataWrangler.
+    - [Lab 5 - Data Wrangler in AWS Sagemaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab5)
+
+6. **Training a Model with Amazon SageMaker:**
+    - Explore the built-in algorithms provided by Amazon SageMaker - Select an algorithm Linear Learner - Continued creating the model on the dataset used for Data Wrangler - Complete the training job and store the model artifact in the S3 bucket.
+    - [Lab 5 - Training a Model with Amazon SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab6)
