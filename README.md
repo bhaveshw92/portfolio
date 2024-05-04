@@ -241,7 +241,7 @@
 
 4. **SageMaker GroundTruth Text Classification:**
     - Set up a labeling job in Amazon SageMaker GroundTruth - Configure the labeling job for Text Classification - Label the semantics of the customer feedback as per the assigned task - check the labeled data in the designated output folder within the S3 bucket 
-    - [Lab 3 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
+    - [Lab 4 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
   
 5. **Data Wrangler in AWS Sagemaker:**
     - Analyze the selected dataset in DataWrangler to identify opportunities for improving data quality - Clean and transform the data using DataWrangler - Present visualizations and analysis conducted in DataWrangler.
@@ -249,4 +249,4 @@
 
 6. **Training a Model with Amazon SageMaker:**
     - Explore the built-in algorithms provided by Amazon SageMaker - Select an algorithm Linear Learner - Continued creating the model on the dataset used for Data Wrangler - Complete the training job and store the model artifact in the S3 bucket.
-    - [Lab 5 - Training a Model with Amazon SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab6)
+    - [Lab 6 - Training a Model with Amazon SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab6)
