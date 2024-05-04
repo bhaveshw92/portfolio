@@ -11,7 +11,7 @@
 - Senior Software Developer - Iksula Services Pvt. Ltd - (_Dec 2017 - Sep 2021_) | 3.9 years
 
 ## Projects
-#### Big Data Analytics Projects
+### Big Data Analytics Projects
 
 ---
 
@@ -127,12 +127,12 @@
 
 ---
 
-#### AI and ML Projects
+### AI and ML Projects
 ---
 
 **Data Analytics with Python**
 
-### Labs
+**Labs**
 
 1. Lab 1 - Pandas
 2. Lab 2 - NumPy
@@ -176,7 +176,7 @@
 
 **Deep Learning**
 
-### Labs and Projects
+**Labs and Projects**
 
 1. **WEKA Installation and Linear Regression in Python:**
     - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation. 
@@ -225,7 +225,7 @@
 
 **Machine Learning on AWS Cloud**
 
-### Labs and Projects
+**Labs and Projects**
 
 1. **AWS S3 Bucket Creation and Listing:**
     - Create a Bucket and Load the Humber Logo - Use AWS CLI to Create a Bucket - Run Python Function to List Bucket Names - Querying S3 Bucket Names and Running Instances Programmatically
