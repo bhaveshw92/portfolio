@@ -23,37 +23,45 @@
 **Labs and Projects**
 
 1. **WEKA Installation and Linear Regression in Python:**
-    - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation. 
+    - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation.
+      
 **Link:** [Lab 1 - Linear Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_1_LinearRegression)
 
 2. **Multiple Linear Regression (MLR):**
     - Implemented an MLR model to predict user satisfaction scores based on various factors.
+      
 **Link:** [Lab 2 - Multiple Linear Regression (MLR)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_2_MultiLinearRegression)
 
 3. **Logistic Regression:**
     - Explored and implemented logistic regression for binary classification tasks.
+      
 **Link:** [Lab 3 - Logistic Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_3_Binary_Classification)
 
 4. **Gaussian Naive Bayes Classifier (NBC):**
-    - Introduced Gaussian NBC, explored assumptions, and evaluated the model. 
+    - Introduced Gaussian NBC, explored assumptions, and evaluated the model.
+      
 **Link:** [Lab 7 - Gaussian Naive Bayes Classifier (NBC)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_7_Gaussian_Naive_Bayes)
 
 5. **Decision Trees and ML Hyperparameters:**
     - Designed and evaluated decision tree models for regression tasks, including hyperparameter tuning.
+   
 **Link:** [Lab 6 - Decision Trees and ML Hyperparameters](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_9_Decision_Trees)
 
 **Projects**
 
 1. **Ethical Considerations in AI and CLV Prediction:**
     - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
-**Link:** [Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
+      
+**Link:** [Ethical Considerations in AI and CLV Prediction] https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
 
 2. **State-of-the-Art in Applied ML Research Paper:**
     - Sentiment Analysis of YouTube Comments - Research 2 Papers from IEEE, Present and Summarize 2  papers to the class.
+      
 **Link:** [State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
 
 3. **Large-scale Wave Energy Farm Optimization Through ML:**
     - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
+      
 **Link:** [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
   
 4. **YouTube Comments Sentiment Analysis:**
@@ -63,6 +71,7 @@
         2. 1D Convolutional Neural Network (CNN)
         3. Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM)
     - Data Collection: Comments extracted from YouTube API
+      
 **Link:** [YouTube Comments Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/SentimentAnalysis_using_Neural_Networks)
   
 ---
@@ -72,27 +81,33 @@
 **Labs and Projects**
 
 1. **AWS S3 Bucket Creation and Listing:**
-    - Create a Bucket and Load the Humber Logo - Use AWS CLI to Create a Bucket - Run Python Function to List Bucket Names - Querying S3 Bucket Names and Running Instances Programmatically
+    - Create a Bucket and Load the Humber Logo - Use AWS CLI to Create a Bucket - Run Python Function to List Bucket Names - Querying S3 Bucket Names and Running Instances Programmatically.
+      
 **Link:** [Lab 1 - S3 Bucket Creation and Listing](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab1)
 
 2. **AWS Lambda Function for S3 Event Handling:**
     - Handling S3 Put Events with Lambda Function and Create a SageMaker model and Deploy the model.
+      
 **Link:** [Lab 2 - S3 Event Handling](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab2)
 
 3. **AWS AI Service Integration with Lambda Function:**
     - Integrating Translate Service with Lambda Function - Write Lambda function code to extract the uploaded file in the S3 bucket - Utilize the Translate service to translate text from the uploaded file - Save the result of the translation into another s3 bucket.
+      
 **Link:** [Lab 3 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
 
 4. **SageMaker GroundTruth Text Classification:**
-    - Set up a labeling job in Amazon SageMaker GroundTruth - Configure the labeling job for Text Classification - Label the semantics of the customer feedback as per the assigned task - check the labeled data in the designated output folder within the S3 bucket 
+    - Set up a labeling job in Amazon SageMaker GroundTruth - Configure the labeling job for Text Classification - Label the semantics of the customer feedback as per the assigned task - check the labeled data in the designated output folder within the S3 bucket.
+      
 **Link:** [Lab 4 - Sagemaker Translate Service](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab3)
   
 5. **Data Wrangler in AWS Sagemaker:**
     - Analyze the selected dataset in DataWrangler to identify opportunities for improving data quality - Clean and transform the data using DataWrangler - Present visualizations and analysis conducted in DataWrangler.
+      
 **Link:** [Lab 5 - Data Wrangler in AWS Sagemaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab5)
 
 6. **Training a Model with Amazon SageMaker:**
     - Explore the built-in algorithms provided by Amazon SageMaker - Select an algorithm Linear Learner - Continued creating the model on the dataset used for Data Wrangler - Complete the training job and store the model artifact in the S3 bucket.
+      
 **Link:** [Lab 6 - Training a Model with Amazon SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Lab6)
 
 **Projects**
@@ -102,14 +117,17 @@
     - Use SageMaker Hyperparameter Tuning 
     - Simulate a failed deployment and a successful deployment using Deployment Guardrail.
     - Utilize SageMaker Shadow Testing to compare model variants and allow the shadow variant to replace the production variant.
+      
 **Link:** [Guardrail and Shadow Testing in SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Final_Project_Guardrail_ShadowTesting)
 
 2. **Analyzing Hyperparameter Optimization Results in Sagemaker:**
     - This project demonstrates the application of XGBoost and hyperparameter tuning in solving a binary prediction problem. By optimizing hyperparameters, we can improve model performance and make more accurate predictions in direct marketing scenarios.
+      
 **Link:** [Analyzing Hyperparameter Optimization Results](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/HyperParameterOptmization_XGBoost)
 
 3. **SageMaker JumpStart Assignment:**
     - This assignment focuses on utilizing SageMaker JumpStart to train an XGBoost Classification Model for predicting strokes in a health dataset.
+      
 **Link:** [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
   
 ---
@@ -121,27 +139,32 @@
 1. **Assignment 01: Multiple Regression - E-commerce Customers_Kaggle Dataset**
     - Implement multiple regression using PyTorch and TensorFlow
     - Evaluate model performance using RMSE, MAE, and R2
+      
 **Link:** [Multiple Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_01_Multiple_Regression)
 
 2. **Assignment 02: FMNIST Classification with PyTorch and TensorFlow**
     - Perform classification on the Fashion MNIST dataset
     - Design ANN for classification using PyTorch or TensorFlow
     - Evaluate model performance on training and testing datasets
+      
 **Link:** [FMNIST Classification](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_02_FMNIST_Classification)
 
 3. **Assignment 03: CIFAR-10 AlexNet**
     - Implement transfer learning using AlexNet on CIFAR-10 dataset
     - Evaluate model performance on training and testing datasets
+      
 **Link:** [CIFAR-10 AlexNet](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_03_CIFAR-10_AlexNet)
 
 4. **Assignment 04: Wave Prediction LSTM**
     - Design LSTM model to predict future values of time series data - Predict the future values of the time series after learning the signal in the dataset.
     - Evaluate model performance on training and testing datasets
+      
 **Link:** [Wave Prediction LSTM](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_04_WavePredection_LSTM)
 
 5. **Assignment 05: Transformers for Sentiment Analysis**
     - Implement sentiment analysis using transformers - Transfer Learning using Pipeline - and Fine-tuning.
     - Compare results of transfer learning with fine-tuning
+      
 **Link:** [Transformers for Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_05_Transformers)
 
 ### Projects
@@ -150,6 +173,7 @@
     - This project aims to classify images into six different categories using transfer learning with pre-trained models such as ResNet50, AlexNet, and VGG16. 
     - The dataset used for this project contains approximately 25,000 images grouped into categories including buildings, forests, glaciers, mountains, seas, and         streets. 
     - Evaluate model performance on validation and testing datasets
+      
 **Link:** [Intel Image Classification](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Intel_Image_Classification_CNN)
 
 2. **YouTube Comments Sentiment Analysis**
@@ -157,6 +181,7 @@
     - Implement a sentiment analysis model using transformer DistilBertForSequenceClassification.
     - Train the model to accurately classify sentiment in YouTube comments.
     - Evaluate the model's performance and deploy it for real-time sentiment analysis on YouTube comments.
+      
 **Link:** [Sentiment Analysis - Transformers](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/YoutubeComments_SentimentAnalysis_Transformers)
       
 ---
