@@ -288,14 +288,14 @@
 3. **Assignment 03: CIFAR-10 AlexNet**
     - Implement transfer learning using AlexNet on CIFAR-10 dataset
     - Evaluate model performance on training and testing datasets
-    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_03_CIFAR-10_AlexNet)
+    - [CIFAR-10 AlexNet](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_03_CIFAR-10_AlexNet)
 
 4. **Assignment 04: Wave Prediction LSTM**
     - Design LSTM model to predict future values of time series data - Predict the future values of the time series after learning the signal in the dataset.
     - Evaluate model performance on training and testing datasets
-    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_04_WavePredection_LSTM)
+    - [Wave Prediction LSTM](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_04_WavePredection_LSTM)
 
 5. **Assignment 05: Transformers for Sentiment Analysis**
     - Implement sentiment analysis using transformers - Transfer Learning using Pipeline - and Fine-tuning.
     - Compare results of transfer learning with fine-tuning
-    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_05_Transformers)
+    - [Transformers for Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_05_Transformers)
