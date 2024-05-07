@@ -253,10 +253,14 @@
 
 **Projects**
 
-1. **Analyzing Hyperparameter Optimization Results in Sagemaker:**
+1. **Final Project - Deployment Guardrail and Shadow Testing in SageMaker:**
+    - Use the specified data set and models for the project - Train two models using SageMaker Hyperparameter Tuning - Simulate a failed deployment and a successful deployment using Deployment Guardrail - Utilize SageMaker Shadow Testing to compare model variants and allow the shadow variant to replace the production variant.
+    - [Guardrail and Shadow Testing in SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Final_Project_Guardrail_ShadowTesting)
+
+2. **Analyzing Hyperparameter Optimization Results in Sagemaker:**
     - This project demonstrates the application of XGBoost and hyperparameter tuning in solving a binary prediction problem. By optimizing hyperparameters, we can improve model performance and make more accurate predictions in direct marketing scenarios.
     - [Analyzing Hyperparameter Optimization Results](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/HyperParameterOptmization_XGBoost)
 
-2. **SageMaker JumpStart Assignment:**
+3. **SageMaker JumpStart Assignment:**
     - This assignment focuses on utilizing SageMaker JumpStart to train an XGBoost Classification Model for predicting strokes in a health dataset.
     - [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
