@@ -267,3 +267,35 @@
 3. **SageMaker JumpStart Assignment:**
     - This assignment focuses on utilizing SageMaker JumpStart to train an XGBoost Classification Model for predicting strokes in a health dataset.
     - [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
+  
+---
+
+**Advanced Deep Learning**
+
+### Assignments and Projects
+
+1. **Assignment 01: Multiple Regression - E-commerce Customers_Kaggle Dataset**
+    - Implement multiple regression using PyTorch and TensorFlow
+    - Evaluate model performance using RMSE, MAE, and R2
+    - [Multiple Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_01_Multiple_Regression)
+
+2. **Assignment 02: FMNIST Classification with PyTorch and TensorFlow**
+    - Perform classification on the Fashion MNIST dataset
+    - Design ANN for classification using PyTorch or TensorFlow
+    - Evaluate model performance on training and testing datasets
+    - [FMNIST Classification](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_02_FMNIST_Classification)
+
+3. **Assignment 03: CIFAR-10 AlexNet**
+    - Implement transfer learning using AlexNet on CIFAR-10 dataset
+    - Evaluate model performance on training and testing datasets
+    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_03_CIFAR-10_AlexNet)
+
+4. **Assignment 04: Wave Prediction LSTM**
+    - Design LSTM model to predict future values of time series data - Predict the future values of the time series after learning the signal in the dataset.
+    - Evaluate model performance on training and testing datasets
+    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_04_WavePredection_LSTM)
+
+5. **Assignment 05: Transformers for Sentiment Analysis**
+    - Implement sentiment analysis using transformers - Transfer Learning using Pipeline - and Fine-tuning.
+    - Compare results of transfer learning with fine-tuning
+    - [Code](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_05_Transformers)
