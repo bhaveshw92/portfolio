@@ -254,7 +254,10 @@
 **Projects**
 
 1. **Final Project - Deployment Guardrail and Shadow Testing in SageMaker:**
-    - Use the specified data set and models for the project - Train two models using SageMaker Hyperparameter Tuning - Simulate a failed deployment and a successful deployment using Deployment Guardrail - Utilize SageMaker Shadow Testing to compare model variants and allow the shadow variant to replace the production variant.
+    - Use the specified data set and models for the project 
+    - Train two models using SageMaker Hyperparameter Tuning 
+    - Simulate a failed deployment and a successful deployment using Deployment Guardrail 
+    - Utilize SageMaker Shadow Testing to compare model variants and allow the shadow variant to replace the production variant.
     - [Guardrail and Shadow Testing in SageMaker](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Final_Project_Guardrail_ShadowTesting)
 
 2. **Analyzing Hyperparameter Optimization Results in Sagemaker:**
