@@ -72,62 +72,83 @@
 
 ---
 
-**Deep Learning**
+# Computer Vision Assignments and Projects
 
-**Labs and Projects**
+## 1. LipNet AI Model - Lipreading AI for Hearing Impairment
 
-1. **WEKA Installation and Linear Regression in Python:**
-    - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation.
-      
-**Link:** [Lab 1 - Linear Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_1_LinearRegression)
+### Description
+- Developed a lip reading machine learning model to decipher lip movements and convert them into text.
+- Preprocessed video data to extract relevant features and saved it as a GIF for model input.
+- Designed and implemented a deep learning model architecture comprising 3D convolutional layers, LSTM layers, and Dense layers.
+- Trained the model on the GRID Audiovisual Sentence Corpus dataset to achieve high accuracy in lip reading.
+- Evaluated the model's performance and deployed it using Streamlit for real-time lip reading.
 
-2. **Multiple Linear Regression (MLR):**
-    - Implemented an MLR model to predict user satisfaction scores based on various factors.
-      
-**Link:** [Lab 2 - Multiple Linear Regression (MLR)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_2_MultiLinearRegression)
+**Link:** [LipNet AI - Final Project](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/LipNet_Final_Project)
 
-3. **Logistic Regression:**
-    - Explored and implemented logistic regression for binary classification tasks.
-      
-**Link:** [Lab 3 - Logistic Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_3_Binary_Classification)
+## 2. Spatial Domain Filtering Operations
 
-4. **Gaussian Naive Bayes Classifier (NBC):**
-    - Introduced Gaussian NBC, explored assumptions, and evaluated the model.
-      
-**Link:** [Lab 7 - Gaussian Naive Bayes Classifier (NBC)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_7_Gaussian_Naive_Bayes)
+### Description
+- Implemented various spatial domain filtering techniques for image processing.
+- Added noise to images and performed denoising using mean and Gaussian filters.
+- Removed salt and pepper noise using a median filter.
+- Implemented edge detection using Sobel, Prewitt, and Robert filters.
+- Compared the performance of different edge detectors.
 
-5. **Decision Trees and ML Hyperparameters:**
-    - Designed and evaluated decision tree models for regression tasks, including hyperparameter tuning.
-   
-**Link:** [Lab 6 - Decision Trees and ML Hyperparameters](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_9_Decision_Trees)
+**Link:** [Spatial Domain Filtering Operations](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment2_SpatialDomainFiltering)
 
-**Projects**
+## 3. Frequency Domain Filtering and Thresholding Operations
 
-1. **Ethical Considerations in AI and CLV Prediction:**
-    - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
-      
-**Link:** [Ethical Considerations in AI and CLV Prediction] https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
+### Description
+#### Frequency Domain Filtering
+- Implement low pass and high pass filtering in the frequency domain.
+- Transform images to the frequency domain using Fourier Transform.
+- Apply low-pass and high-pass filters and Transform the filtered images back to the spatial domain.
+#### Thresholding Operations
+- Explore binary and adaptive thresholding techniques.
+- Utilize the `cv2.threshold()` and `cv2.adaptiveThreshold()` functions provided by OpenCV.
+- Enhance image visibility and extract important features by applying thresholding techniques.
 
-2. **State-of-the-Art in Applied ML Research Paper:**
-    - Sentiment Analysis of YouTube Comments - Research 2 Papers from IEEE, Present and Summarize 2  papers to the class.
-      
-**Link:** [State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
+**Link:** [Frequency Domain Filtering and Thresholding Operations](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment3_Frequency_Domain_Filtering)
 
-3. **Large-scale Wave Energy Farm Optimization Through ML:**
-    - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
-      
-**Link:** [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
-  
-4. **YouTube Comments Sentiment Analysis:**
-    - Developed a sentiment analysis tool to categorize comments as positive, or negative.
-    - Models Used:
-        1. Artificial Neural Network (ANN)
-        2. 1D Convolutional Neural Network (CNN)
-        3. Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM)
-    - Data Collection: Comments extracted from YouTube API
-      
-**Link:** [YouTube Comments Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/SentimentAnalysis_using_Neural_Networks)
-  
+## 4. Convolutional Neural Networks (CNNs) for Image Classification
+
+### Description
+- This project involves implementing CNNs using PyTorch for image classification tasks. 
+- The goal is to design and train a CNN model to classify images of cats and dogs from the provided dataset.
+
+**Link:** [Classification Model for Cats and Dogs](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment4_CNN)
+
+
+## 5. LSTM Autoencoder for Time Series Signal Regeneration
+
+### Description
+- Implemented an LSTM-based autoencoder to regenerate the original time series signal.
+- Trained the model to learn the underlying patterns in the signal and accurately reconstruct it.
+- Utilized PyTorch for model implementation and training.
+- Evaluated the performance of the autoencoder on the test dataset.
+
+**Link:** [LSTM Autoencoder for Time Series Signal Regeneration](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment5_LSTM_Autoencoder_Time_Series)
+
+
+## 6. DCGAN for CIFAR-10 Image Generation
+
+### Description
+- Designed and implemented a Deep Convolutional Generative Adversarial Network (DCGAN) for generating CIFAR-10 images.
+- Trained the DCGAN model to learn the underlying distribution of CIFAR-10 images.
+- Generated realistic images that resemble the ones in the CIFAR-10 dataset.
+- Utilized PyTorch for model implementation and training.
+
+**Link:** [DCGAN for CIFAR-10 Image Generation](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment6_DCGAN_for_CIFAR-10)
+
+## 7. Measuring Object Size with OpenCV
+
+### Description
+- Developed a project to measure the size of geometrical objects using OpenCV.
+- Implemented object detection and size measurement for various shapes including triangles, squares/rectangles, pentagons, hexagons, circles, and unknown shapes.
+- Utilized OpenCV, a computer vision library, for image processing tasks.
+
+**Link:** [Measuring Object Size with OpenCV](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Project_Measuring_Object_Size)
+
 ---
 
 **Machine Learning on AWS Cloud**
@@ -184,6 +205,63 @@
       
 **Link:** [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
 
+---
+
+**Deep Learning**
+
+**Labs and Projects**
+
+1. **WEKA Installation and Linear Regression in Python:**
+    - Implementation of linear regression using Python, including dataset exploration, visualization, and model evaluation - Installed WEKA, fitted a linear regression model, and compared results with Python implementation.
+      
+**Link:** [Lab 1 - Linear Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_1_LinearRegression)
+
+2. **Multiple Linear Regression (MLR):**
+    - Implemented an MLR model to predict user satisfaction scores based on various factors.
+      
+**Link:** [Lab 2 - Multiple Linear Regression (MLR)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_2_MultiLinearRegression)
+
+3. **Logistic Regression:**
+    - Explored and implemented logistic regression for binary classification tasks.
+      
+**Link:** [Lab 3 - Logistic Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_3_Binary_Classification)
+
+4. **Gaussian Naive Bayes Classifier (NBC):**
+    - Introduced Gaussian NBC, explored assumptions, and evaluated the model.
+      
+**Link:** [Lab 7 - Gaussian Naive Bayes Classifier (NBC)](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_7_Gaussian_Naive_Bayes)
+
+5. **Decision Trees and ML Hyperparameters:**
+    - Designed and evaluated decision tree models for regression tasks, including hyperparameter tuning.
+   
+**Link:** [Lab 6 - Decision Trees and ML Hyperparameters](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Lab_9_Decision_Trees)
+
+**Projects**
+
+1. **Ethical Considerations in AI and CLV Prediction:**
+    - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
+      
+**Link:** [Ethical Considerations in AI and CLV Prediction] https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
+
+2. **State-of-the-Art in Applied ML Research Paper:**
+    - Sentiment Analysis of YouTube Comments - Research 2 Papers from IEEE, Present and Summarize 2  papers to the class.
+      
+**Link:** [State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
+
+3. **Large-scale Wave Energy Farm Optimization Through ML:**
+    - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
+      
+**Link:** [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
+  
+4. **YouTube Comments Sentiment Analysis:**
+    - Developed a sentiment analysis tool to categorize comments as positive, or negative.
+    - Models Used:
+        1. Artificial Neural Network (ANN)
+        2. 1D Convolutional Neural Network (CNN)
+        3. Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM)
+    - Data Collection: Comments extracted from YouTube API
+      
+**Link:** [YouTube Comments Sentiment Analysis](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/SentimentAnalysis_using_Neural_Networks)
       
 ---
 
