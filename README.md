@@ -72,9 +72,9 @@
 
 ---
 
-# Computer Vision Assignments and Projects
+**Computer Vision Assignments and Projects**
 
-## 1. LipNet AI Model - Lipreading AI for Hearing Impairment
+### 1. LipNet AI Model - Lipreading AI for Hearing Impairment
 
 ### Description
 - Developed a lip reading machine learning model to decipher lip movements and convert them into text.
@@ -85,7 +85,7 @@
 
 **Link:** [LipNet AI - Final Project](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/LipNet_Final_Project)
 
-## 2. Spatial Domain Filtering Operations
+### 2. Spatial Domain Filtering Operations
 
 ### Description
 - Implemented various spatial domain filtering techniques for image processing.
@@ -96,7 +96,7 @@
 
 **Link:** [Spatial Domain Filtering Operations](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment2_SpatialDomainFiltering)
 
-## 3. Frequency Domain Filtering and Thresholding Operations
+### 3. Frequency Domain Filtering and Thresholding Operations
 
 ### Description
 #### Frequency Domain Filtering
@@ -110,7 +110,7 @@
 
 **Link:** [Frequency Domain Filtering and Thresholding Operations](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment3_Frequency_Domain_Filtering)
 
-## 4. Convolutional Neural Networks (CNNs) for Image Classification
+### 4. Convolutional Neural Networks (CNNs) for Image Classification
 
 ### Description
 - This project involves implementing CNNs using PyTorch for image classification tasks. 
@@ -119,7 +119,7 @@
 **Link:** [Classification Model for Cats and Dogs](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment4_CNN)
 
 
-## 5. LSTM Autoencoder for Time Series Signal Regeneration
+### 5. LSTM Autoencoder for Time Series Signal Regeneration
 
 ### Description
 - Implemented an LSTM-based autoencoder to regenerate the original time series signal.
@@ -130,7 +130,7 @@
 **Link:** [LSTM Autoencoder for Time Series Signal Regeneration](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment5_LSTM_Autoencoder_Time_Series)
 
 
-## 6. DCGAN for CIFAR-10 Image Generation
+### 6. DCGAN for CIFAR-10 Image Generation
 
 ### Description
 - Designed and implemented a Deep Convolutional Generative Adversarial Network (DCGAN) for generating CIFAR-10 images.
@@ -140,7 +140,7 @@
 
 **Link:** [DCGAN for CIFAR-10 Image Generation](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Assignment6_DCGAN_for_CIFAR-10)
 
-## 7. Measuring Object Size with OpenCV
+### 7. Measuring Object Size with OpenCV
 
 ### Description
 - Developed a project to measure the size of geometrical objects using OpenCV.
