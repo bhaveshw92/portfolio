@@ -37,7 +37,7 @@
 - Bachelor's Degree., Information Technology | Mumbai University (_July 2015_)
 
 ## Work Experience
-- Kevares Autonomous Services - Humber Capstone Project - Machine Learning Engineer, ON, Canada |  (_Jan 2024 - Current_) | 0.5 years
+- Machine Learning Engineer - Kevares Autonomous Services, ON, Canada |  (_Jan 2024 - Current_) | 0.5 years
 - Application Development Senior Analyst - Accenture, India | (_Sep 2021 - Dec 2022_) | 1.4 years
 - Senior Software Developer - Iksula Services Pvt. Ltd - (_Dec 2017 - Sep 2021_) | 3.9 years
 
