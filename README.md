@@ -1,5 +1,35 @@
 # Machine Learning Engineer / Software Developer
-#### Technical Skills: Python, PHP, Java, Scala, SQL, Magento, Groovy, Pandas, NumPy, Matplotlib, Seaborn, Plotly, MySQL, Microsoft SQL Server, PostgreSQL, MongoDB, Scikit-learn, TensorFlow, PyTorch, OpenCV, AWS, Azure, Google Cloud, Hadoop, Spark, Kafka, ELK, HTML, CSS, JavaScript, Flask, Django, REST API, GraphQL, OAuth, Docker, Kubernetes, Jenkins, Git, GitHub, GitLab, Bitbucket
+
+## Technical Skills
+
+### Programming Languages
+- Python, PHP, Java, Scala, Groovy, SQL
+
+### Data Analysis and Visualization
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly
+
+### Databases
+- **Relational:** MySQL, Microsoft SQL Server, PostgreSQL
+- **NoSQL:** MongoDB
+
+### Machine Learning and Deep Learning
+- Scikit-learn, TensorFlow, PyTorch, OpenCV
+
+### Cloud Platforms
+- AWS, Azure, Google Cloud
+
+### Big Data Technologies
+- Hadoop, Spark, Kafka, ELK (Elasticsearch, Logstash, Kibana)
+
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Flask, Django
+- **API Development:** REST API, GraphQL, OAuth
+
+### DevOps and MLOps
+- **Containerization and Orchestration:** Docker, Kubernetes
+- **CI/CD:** Jenkins
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
 
 ## Education
 - Post Graduation Certificate., Artificial Intelligence with Machine Learning | Humber College (_April 2024_)
