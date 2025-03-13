@@ -449,7 +449,7 @@
 **Certifications**
 
 1. **Microsoft Certified: Azure Fundamentals**
-    - Issued Jan 2025Issued Jan 2025
+    - Issued Jan 2025
     - Credential ID A6B1944B642E3407
     - [Link to Certificate](https://learn.microsoft.com/en-us/users/bhaveshwaghela-3770/credentials/a6b1944b642e3407?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 2. **AWS Certified AI Practitioner**
