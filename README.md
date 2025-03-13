@@ -448,10 +448,20 @@
 
 **Additional Resources:**
 
-
-1. **Certificate of Completion - Microsoft SQL Server 2019 Essential Training:**
-    - Microsoft SQL Server 2019 Essential Training Certificate attached.
-    - [Link to Certificate](https://github.com/bhaveshw92/BigDataAnalytics/blob/main/CertificateOfCompletion_Microsoft%20SQL%20Server%202019%20Essential%20Training.pdf)
+1. **Microsoft Certified: Azure Fundamentals**
+    - Issued Jan 2025Issued Jan 2025
+    - Credential ID A6B1944B642E3407
+    - [Link to Certificate](https://learn.microsoft.com/en-us/users/bhaveshwaghela-3770/credentials/a6b1944b642e3407?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+2. **AWS Certified AI Practitioner
+   - Amazon Web Services (AWS)
+   - Issued Nov 2024 · Expires Nov 2027
+   - Credential ID 4079be5ac38b43ee819088a81b75fb06
+   - [Link to Certificate](https://www.credly.com/badges/00c8efe6-3a52-4f3e-a312-fce266da6f2e/public_url)
+3. **AWS Certified Solutions Architect – Associate**
+   - Amazon Web Services (AWS)
+   - Issued May 2022 · Expires May 2025
+   - Credential ID F3M4CVPBHEQ11NCV
+   - [Link to Certificate](https://www.credly.com/badges/a062e8f5-8f7c-4f4f-a469-11b13316d6a5)
 
 
 
