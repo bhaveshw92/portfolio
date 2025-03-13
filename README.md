@@ -51,34 +51,34 @@
 
 **Advanced Deep Learning**
 
-### Assignments and Projects
+### Projects
 
-1. **Assignment 01: Multiple Regression - E-commerce Customers_Kaggle Dataset**
+1. **Multiple Regression - E-commerce Customers_Kaggle Dataset**
     - Implement multiple regression using PyTorch and TensorFlow
     - Evaluate model performance using RMSE, MAE, and R2
       
     **Link:** [Multiple Regression](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_01_Multiple_Regression)
 
-2. **Assignment 02: FMNIST Classification with PyTorch and TensorFlow**
+2. **FMNIST Classification with PyTorch and TensorFlow**
     - Perform classification on the Fashion MNIST dataset
     - Design ANN for classification using PyTorch or TensorFlow
     - Evaluate model performance on training and testing datasets
       
     **Link:** [FMNIST Classification](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_02_FMNIST_Classification)
 
-3. **Assignment 03: CIFAR-10 AlexNet**
+3. **CIFAR-10 AlexNet**
     - Implement transfer learning using AlexNet on CIFAR-10 dataset
     - Evaluate model performance on training and testing datasets
       
     **Link:** [CIFAR-10 AlexNet](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_03_CIFAR-10_AlexNet)
 
-4. **Assignment 04: Wave Prediction LSTM**
+4. **Wave Prediction LSTM**
     - Design LSTM model to predict future values of time series data - Predict the future values of the time series after learning the signal in the dataset.
     - Evaluate model performance on training and testing datasets
       
     **Link:** [Wave Prediction LSTM](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Advanced_Deep_Learning/Assignment_04_WavePredection_LSTM)
 
-5. **Assignment 05: Transformers for Sentiment Analysis**
+5. **Transformers for Sentiment Analysis**
     - Implement sentiment analysis using transformers - Transfer Learning using Pipeline - and Fine-tuning.
     - Compare results of transfer learning with fine-tuning
       
@@ -103,7 +103,7 @@
 
 ---
 
-**Computer Vision Assignments and Projects**
+**Computer Vision Projects**
 
 ### 1. LipNet AI Model - Lipreading AI for Hearing Impairment
 
@@ -175,7 +175,7 @@
 
 ### Description
 - Developed a project to measure the size of geometrical objects using OpenCV.
-- Implemented object detection and size measurement for various shapes including triangles, squares/rectangles, pentagons, hexagons, circles, and unknown shapes.
+- Implemented object detection and size measurement for various shapes, including triangles, squares/rectangles, pentagons, hexagons, circles, and unknown shapes.
 - Utilized OpenCV, a computer vision library, for image processing tasks.
 
 **Link:** [Measuring Object Size with OpenCV](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Computer_Vision/Project_Measuring_Object_Size)
@@ -231,7 +231,7 @@
       
     **Link:** [Analyzing Hyperparameter Optimization Results](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/HyperParameterOptmization_XGBoost)
 
-3. **SageMaker JumpStart Assignment:**
+3. **SageMaker JumpStart:**
     - This assignment focuses on utilizing SageMaker JumpStart to train an XGBoost Classification Model for predicting strokes in a health dataset.
       
     **Link:** [SageMaker JumpStart](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/ML_Cloud/Sagemaker_JumpStart)
@@ -269,7 +269,7 @@
 
 **Projects**
 
-1. **Ethical Considerations in AI and CLV Prediction:**
+1. **Ethical Considerations in AI and CLV Prediction**
     - Discuss the potential ethical concerns in decision-making - Predict Customer Lifetime Value (CLV) using customer behavior data.
       
     **Link:** [Ethical Considerations in AI and CLV Prediction](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_1_EthicalQst_CLV_Prediction)
@@ -279,13 +279,13 @@
       
     **Link:** [State-of-the-Art in Applied ML Research Paper](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_2_ResearchPaperReview)
 
-3. **Large-scale Wave Energy Farm Optimization Through ML:**
+3. **Large-Scale Wave Energy Farm Optimization Through ML:**
     - Wave Energy Converters (WEC) dataset - Focus on predicting the total farm power using ANNs with TensorFlow - Follow the ML pipeline and flow - Train the initial ANN model to predict total farm power.
       
     **Link:** [Large-scale Wave Energy Farm Optimization Through ML](https://github.com/bhaveshw92/AI_with_MachineLearning/tree/main/Deep_Learning/Assignment_3_WaveEnergyFarmOptimization_ANNs)
   
 4. **YouTube Comments Sentiment Analysis:**
-    - Developed a sentiment analysis tool to categorize comments as positive, or negative.
+    - Developed a sentiment analysis tool to categorize comments as positive or negative.
     - Models Used:
         1. Artificial Neural Network (ANN)
         2. 1D Convolutional Neural Network (CNN)
