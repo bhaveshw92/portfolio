@@ -3,7 +3,7 @@
 ## Technical Skills
 
 ### Programming Languages
-- Python, PHP, Java, Scala, Groovy, SQL
+- Python, PHP, Java, SQL
 
 ### Data Analysis and Visualization
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly
@@ -23,7 +23,7 @@
 
 ### Web Development
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Flask, Django
+- **Backend:** Flask, Django, Magento
 - **API Development:** REST API, GraphQL, OAuth
 
 ### DevOps and MLOps
